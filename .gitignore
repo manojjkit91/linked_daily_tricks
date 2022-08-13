@@ -1,5 +1,3 @@
 *.tmp
-*.yaml
-*.toml
 *.cache
 *.swp
